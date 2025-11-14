@@ -1,8 +1,8 @@
 {
   "currentVersion": "3.3.0",
   "minimumVersion": "3.3.0",
-  "isTrialExpired": true,
-  "updateRequired": true,
+  "isTrialExpired": false,
+  "updateRequired": false,
   "message": "Welcome to Inventory Rhino! Your trial is active.",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.inventoryrhino",
   "releaseNotes": "Test release with full inventory management features."
